@@ -35,16 +35,15 @@ header > h1{
 header > p{
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 50px;
-}
-
-header > p{
     color: white;
+    font-size: 2vw;
 }
 
 a{
     text-decoration: none;
     color: white;
     font-weight: bolder;
+    font-size: 2vw;
 }
 
 a:hover{
@@ -100,4 +99,5 @@ footer{
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
+    font-size: 2vw;
 }
